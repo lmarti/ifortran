@@ -1,0 +1,5 @@
+{"argv":["python","-m","fortran_kernel", "-f", "{connection_file}"],
+"display_name":"IFortran",
+"language":"Fortran",
+"codemirror_mode": "fortran"
+}
